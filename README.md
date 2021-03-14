@@ -20,9 +20,9 @@ Android. I currently use a Pixel 3a on the latest version of Android.
 
 Java.
 
-I've used Kotlin and like some of the features it has, but I personally think that it obscures too much in the name of null safety. Null safety is really only an issue in Java if you follow poor practices. Having worked with others directly on Kotlin code, Kotlin allows you to much more easily fall into very bad practices that lead to poor readability and poor stability. Contrary to what seems to be popular belief, less code does not always equal more readability. I think Kotlin is great for personal projects that you want to iterate quickly on, but I think it's currently a poor language choice for team projects.
+I've used Kotlin and like some of the features it has, but I still prefer Java and the direction it is currently headed. I have several qualms with Kotlin, but I won't get into them here.
 
-Other languages I've used in the past are BASIC, Lua, C, C++, C#, Python, Haskell, and JavaScript.
+Other languages I've used in the past include, but are not limited to, BASIC, Lua, C, C++, C#, Python, Haskell, and JavaScript.
 
 ### What languages are you learning right now?
 
