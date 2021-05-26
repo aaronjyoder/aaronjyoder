@@ -20,7 +20,7 @@ Android. I currently use a Pixel 3a on the latest version of Android.
 
 Java.
 
-I've used Kotlin and like some of the features it has, but I still prefer Java and the direction it is currently headed. I have several qualms with Kotlin, but I won't get into them here.
+I've used Kotlin and like some of the features it has, but I still prefer Java and the direction it is currently headed.
 
 Other languages I've used in the past include, but are not limited to, BASIC, Lua, C, C++, C#, Python, Haskell, and JavaScript.
 
