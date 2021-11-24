@@ -6,7 +6,7 @@ I'm Aaron Yoder. I study theoretical mathematics and algorithms, and have been p
 
 ### What operating system do you use on desktop?
 
-I use Windows 10 on my personal computers, but there's something really charming about Linux. I can't bring myself to jump over to Linux permanently yet, though.
+I use Windows 11 on my personal computers, but there's something really charming about Linux. I can't bring myself to jump over to Linux permanently yet, though.
 
 ### What operating system do you use on mobile?
 
