@@ -1,43 +1,27 @@
 ### Hey!
 
-I'm Aaron Yoder. I study theoretical mathematics and algorithms, and have been programming for well over a decade now.
+I'm Aaron Yoder. I am a software developer from Dayton, Ohio and also study theoretical mathematics and algorithms.
 
-# FAQ
+# Technologies & Tooling
 
-### What operating system do you use on desktop?
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=007acc)
 
-I use Windows 11 on my personal computers, but there's something really charming about Linux. I can't bring myself to jump over to Linux permanently yet, though.
+This is a non-exhaustive list. I am also quick to learn and can pick up new technologies quickly.
 
-### What operating system do you use on mobile?
+# Hobbies
 
-Android. I currently use a Pixel 3a on the latest version of Android.
+* 📷 Photography (+ Astrophotography)
+* 🎮 Gaming (Metroid, Zelda, Dark Souls, rhythm games, and more...)
+* 🔐 Cryptography
+* ☕ Coffee
+* 🎹 Piano
+* ✏️ Drawing
 
-### What's your preferred browser?
-
-[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) on all platforms.
-
-### What are your favorite programming languages?
-
-Java.
-
-I've used Kotlin and like some of the features it has, but I still prefer Java and the direction it is currently headed.
-
-Other languages I've used in the past include, but are not limited to, BASIC, Lua, C, C++, C#, Python, Haskell, and JavaScript.
-
-### What languages are you learning right now?
-
-Rust and Haskell. Of course, I'm still always learning new things about Java as well!
-
-This isn't a programming language, but I'm also continually brushing up on my German.
-
-### Preferred IDE?
-
-[IntelliJ IDEA](https://www.jetbrains.com/idea/)
-
-### What are some of your other interests?
-
-I enjoy all things mathematical, including algorithms and cryptography. I also do photography and astronomy as a hobby, and sometimes combine the two through astrophotography! Coffee is also big in my life, and I'm always trying to brew a better cup. I also love playing video games, especially Nintendo games.
-
-### How can I contact you?
+# Contact
 
 Feel free to [email me](mailto:aaronjyoder@gmail.com)! I also occasionally use [Twitter](https://twitter.com/aaronjyoder).
