@@ -16,9 +16,10 @@ I'm Aaron Yoder. I am a software developer from Dayton, Ohio and also study theo
 
 This is a non-exhaustive list. I am also quick to learn and can pick up new technologies quickly.
 
-# Current Projects
+# Projects
 
 * [Riskrieg](https://riskrieg.com)
+* Selbst
 * Project Artemis (shh!)
 
 # Hobbies
