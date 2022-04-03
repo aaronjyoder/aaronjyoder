@@ -26,6 +26,7 @@ This is a non-exhaustive list. I am also quick to learn and can pick up new tech
 
 * 📷 Photography (+ Astrophotography)
 * 🎮 Gaming (Metroid, Zelda, Dark Souls, rhythm games, and more...)
+* 🖥️ Technology
 * 🔐 Cryptography
 * ☕ Coffee
 * 🎹 Piano
