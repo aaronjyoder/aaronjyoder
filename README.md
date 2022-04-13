@@ -19,7 +19,7 @@ This is a non-exhaustive list. I am also quick to learn and can pick up new tech
 # Projects
 
 * [Riskrieg](https://riskrieg.com)
-* Selbst
+* Ohai
 * Project Artemis (shh!)
 
 # Hobbies
