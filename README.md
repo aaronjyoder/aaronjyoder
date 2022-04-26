@@ -34,4 +34,4 @@ This is a non-exhaustive list. I am also quick to learn and can pick up new tech
 
 # Contact
 
-Feel free to [email me](mailto:aaronjyoder@gmail.com)! I also occasionally use [Twitter](https://twitter.com/aaronjyoder).
+Feel free to [email me](mailto:aaronjyoder@gmail.com)!
