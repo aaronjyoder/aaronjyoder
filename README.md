@@ -17,10 +17,11 @@ I'm Aaron Yoder. I am a software developer from Dayton, Ohio and also study theo
 
 This is a non-exhaustive list. I am also quick to learn and can pick up new technologies quickly.
 
-# Projects I've Made
+# Projects I'm working on
 
 * [Riskrieg](https://riskrieg.com) (currently maintenance-only)
 * [Ohai](https://github.com/Ohaiapp)
+* [Collate](https://github.com/aaronjyoder/collate)
 * Project Artemis (currently on hold)
 
 # Hobbies
