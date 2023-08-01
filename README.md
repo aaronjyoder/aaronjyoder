@@ -20,7 +20,7 @@ This is a non-exhaustive list. I am also quick to learn and can pick up new tech
 # Projects I'm working on
 
 * [Riskrieg](https://riskrieg.com) (currently maintenance-only)
-* [Ohai](https://github.com/Ohaiapp)
+* [Ohai](https://github.com/adelheidsoftware/ohai)
 * [Collate](https://github.com/aaronjyoder/collate)
 * Project Artemis (currently on hold)
 
