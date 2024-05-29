@@ -17,14 +17,6 @@ I'm Aaron Yoder. I am a software developer from Dayton, Ohio and also study theo
 
 This is a non-exhaustive list. I am also quick to learn and can pick up new technologies quickly.
 
-## Code Style Preferences
-* Tabs > Spaces
-* Strong typing > Weak typing
-* Composition > Inheritance
-* I do not strictly subscribe to single returns.
-* I prefer to omit the else branch unless it adds needed clarity.
-* We love curly braces! I also prefer to start them on the same line as the condition/parameters.
-
 # Projects I'm working on
 
 * [Riskrieg](https://riskrieg.com) (currently maintenance-only)
