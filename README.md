@@ -1,6 +1,6 @@
 ### Hey!
 
-I'm Aaron Yoder. I am a software developer from Dayton, Ohio and also study theoretical mathematics and algorithms.
+I'm Aaron Yoder. I am a software developer from Dayton, Ohio and also study analytic number theory, cryptography, and algorithms.
 
 # Technologies & Tooling
 
